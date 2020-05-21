@@ -2,6 +2,7 @@
 옵션 설명
 1. -t 1000
 runningTime = 1000; (default)
+0일경우 무한
 
 2. -s 12500
 samplingRate = 12500; (default)
